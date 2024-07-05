@@ -1,3 +1,7 @@
+<!Doctype html>
+
+<body>
+
 <?php
 // Author... Cecil Anderson Jordan
 // Live Long And Code..........
@@ -18,3 +22,6 @@ for($a = $WordLength-1; $a >=0; $a--)
 echo "\n"; // use "\n" if you are running it in the console/command line, or "<br>" 
            // if you are running this script from the browser
 ?>
+</body>
+
+</html>
