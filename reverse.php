@@ -8,7 +8,7 @@ $OriginalWord = "Christmas";
 // The reverse word/result should be "samtsirhC"
 // watch how it is done.
 $WordLength = strlen($OriginalWord);
-//die("Word Length is " .$WordLength); /// just checking t make sure that the correct length is used.
+//die("Word Length is " .$WordLength); /// just checking to make sure that the correct length is used.
 echo "The Reverse version is ";
 for($a = $WordLength-1; $a >=0; $a--)
 {
